@@ -1,0 +1,6 @@
+article {
+  padding: 20px;
+}
+.article h1, .article p {
+  margin: 0;
+}
