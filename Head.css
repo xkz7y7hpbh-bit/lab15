@@ -1,0 +1,10 @@
+head {
+  background: #222;
+  color: #fff;
+  padding: 10px;
+}
+.head nav a {
+  color: #fff;
+  margin: 0 15px;
+  text-decoration: none;
+}
